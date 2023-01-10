@@ -13,8 +13,8 @@
     "lib-qqwry": "^0.0.5",
     "log4js": "^0.6.29",
     "nedb": "^1.5.1",
-    "superagent": "^1.6.1",
-    "superagent-proxy": "^1.0.0",
+    "superagent": "^3.6.1",
+    "superagent-proxy": "^2.1.0",
     "webpack": "^1.12.14"
   },
   "scripts": {
